@@ -6,7 +6,7 @@
 <h1>Event details for event {eventId}</h1>
 
 <p>
-    <a href="{$url('/app/campaigns')}">Campaigns index</a>
+    <a href="{$url('/app/campaigns')}">Campaigns index (THIS GENERATES A WARNING)</a>
 </p>
 
 <p>
